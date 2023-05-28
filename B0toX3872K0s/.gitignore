@@ -1,0 +1,17 @@
+*.png
+*.pdf
+*.root
+*.out
+*.error
+*.log
+*_cc.d
+*_cc.so
+*.condor
+*.src
+*.o
+*.pcm
+*.swp
+*.swo
+*.xml
+*.eps
+*.class.C

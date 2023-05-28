@@ -1,0 +1,1 @@
+root://xrootd-cms.infn.it//store/user/crovelli/Charmonium/crab_data_Run2017C/Run2017C_0002.root
