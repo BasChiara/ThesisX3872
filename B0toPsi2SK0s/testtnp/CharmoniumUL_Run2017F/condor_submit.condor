@@ -1,0 +1,21 @@
+
+Universe = vanilla
+Executable = /afs/cern.ch/user/c/cbasile/CMSSW-10-6-20-Analysis/src/BParkNANO/B0toPsi2SK0s/testtnp/CharmoniumUL_Run2017F/dummy_exec.sh
+use_x509userproxy = true
+Log        = /afs/cern.ch/user/c/cbasile/CMSSW-10-6-20-Analysis/src/BParkNANO/B0toPsi2SK0s/testtnp/CharmoniumUL_Run2017F/$(ProcId).log
+Output     = /afs/cern.ch/user/c/cbasile/CMSSW-10-6-20-Analysis/src/BParkNANO/B0toPsi2SK0s/testtnp/CharmoniumUL_Run2017F/$(ProcId).out
+Error      = /afs/cern.ch/user/c/cbasile/CMSSW-10-6-20-Analysis/src/BParkNANO/B0toPsi2SK0s/testtnp/CharmoniumUL_Run2017F/$(ProcId).error
+getenv      = True
+environment = "LS_SUBCWD=/afs/cern.ch/user/c/cbasile/CMSSW-10-6-20-Analysis/src/BParkNANO/B0toPsi2SK0s"
+request_memory = 1000
++MaxRuntime = 14400
+
+arguments = /afs/cern.ch/user/c/cbasile/CMSSW-10-6-20-Analysis/src/BParkNANO/B0toPsi2SK0s/testtnp/CharmoniumUL_Run2017F/src/submit_0.src 
+queue 1 
+
+arguments = /afs/cern.ch/user/c/cbasile/CMSSW-10-6-20-Analysis/src/BParkNANO/B0toPsi2SK0s/testtnp/CharmoniumUL_Run2017F/src/submit_1.src 
+queue 1 
+
+arguments = /afs/cern.ch/user/c/cbasile/CMSSW-10-6-20-Analysis/src/BParkNANO/B0toPsi2SK0s/testtnp/CharmoniumUL_Run2017F/src/submit_2.src 
+queue 1 
+

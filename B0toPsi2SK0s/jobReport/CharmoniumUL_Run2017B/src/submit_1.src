@@ -1,0 +1,7 @@
+#!/bin/bash
+cd /afs/cern.ch/user/c/cbasile/CMSSW-10-6-20-Analysis/src/BParkNANO/B0toPsi2SK0s
+echo $PWD
+/afs/cern.ch/user/c/cbasile/CMSSW-10-6-20-Analysis/src/BParkNANO/B0toPsi2SK0s/X3872App /afs/cern.ch/user/c/cbasile/CMSSW-10-6-20-Analysis/src/BParkNANO/B0toPsi2SK0s/jobReport//CharmoniumUL_Run2017B/cfg/tnp_1.txt /tmp/CharmoniumUL_Run2017B_1 
+cp /tmp/CharmoniumUL_Run2017B_1_tree.root /eos/user/c/cbasile/HLTapplyPsi2S/CharmoniumUL_Run2017B_1_tree.root
+cp /tmp/CharmoniumUL_Run2017B_1_histo.root /eos/user/c/cbasile/HLTapplyPsi2S/CharmoniumUL_Run2017B_1_histo.root
+rm /tmp/CharmoniumUL_Run2017B_1.root
