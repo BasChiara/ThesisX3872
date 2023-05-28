@@ -1,6 +1,18 @@
 # Prerequisites
 *.d
 
+# Swap file
+*.swo
+*.swp
+*~
+
+# Images
+*.png
+*.pdf
+
+# Root files
+*.root
+
 # Compiled Object files
 *.slo
 *.lo
@@ -15,6 +27,9 @@
 *.so
 *.dylib
 *.dll
+
+*_cc.d
+*.pcm
 
 # Fortran module files
 *.mod
