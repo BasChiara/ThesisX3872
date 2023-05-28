@@ -1,0 +1,7 @@
+# MC sample 2017 PreUL with no requirements on trigger bits for HLT_paths
+# - HLT_Dimuon25_Jpsi
+# - HLT_DoubleMu4_JpsiTrk_Displaced
+# - HLT_DoubleMu4_JpsiTrkTrk_Displaced
+
+
+/eos/cms/store/group/phys_bphys/crovelli/nanoaod_X/B0ToXKs_CentralAfterFix_DebugPREUL_2022Dec14/BdToX3872Ks_X3872ToJpsiRho_BMuonFilter_DGamma0_TuneCUEP8M1_13TeV-pythia8-evtgen/crab_BdToX3872Ks/221214_143149/0000/

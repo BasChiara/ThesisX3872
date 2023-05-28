@@ -1,0 +1,20 @@
+RunAnalysis
+
+Number of events: 38
+EVENTO 4
+  charge 	 pT	 eta	 phi
+Generated
+  - 	4.15625	-2.22656	-1.47266
+  + 	2.82031	-2.20312	-0.539062
+Reconstructed
+  1	 1.70508	 -2.17383	-2.44678
+  -1	 1.17731	 -1.69604	-2.54736
+  1	 1.03595	 1.91528	-2.38623
+ DR_min mu-  e  mu+ 1.19852 	1.90794
+mJPsi 0.734863
+Processing event number 20
+ Total number of reconstructed JPsi 63
+ Total number of reconstructed Muons 143
+(int) 0
+[0mroot [12] .>
+[0m

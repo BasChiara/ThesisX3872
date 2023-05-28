@@ -1,0 +1,4 @@
+# Monte Carlo UL of the normalization channel B0 -> Psi2S K0s
+# with the old code and reconstruction (maybe the Lxy_sign is not correctly defined)
+
+/eos/cms/store/group/phys_bphys/crovelli/nanoaod_X/B0ToXKs_CentralAfterFix_2022Dec09/BuToPsi2SKs_Psi2SToJPsiPiPi_JPsiToMuMu_RhoToPiPi_TuneCP5_13TeV-pythia8-evtgen/crab_BdToPsi2SKs/221209_153548/0000/

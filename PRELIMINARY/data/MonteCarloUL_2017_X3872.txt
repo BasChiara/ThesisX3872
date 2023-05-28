@@ -1,0 +1,5 @@
+# Monte Carlo UL of the signal channel B0 -> X(3872) K0s
+# with the old code and reconstruction (maybe the Lxy_sign is not correctly defined)
+
+
+/eos/cms/store/group/phys_bphys/crovelli/nanoaod_X/B0ToXKs_CentralAfterFix_2022Dec09/BuToX3872Ks_X3872ToJPsiRho_JPsiToMuMu_RhoToPiPi_TuneCP5_13TeV-pythia8-evtgen/crab_BdToX3872Ks/221209_153554/0000/
